@@ -7,5 +7,11 @@ top_face_test
 trying_f_strings
 trying_patterns
 trying_vkapi
+trying_fileworking		# Попытка копировать файлы на яндекс-диск, обновляя их.
+pandas_pg (2)			# Попытки работы с pandas и postgres
+
+
+
+
 
 
