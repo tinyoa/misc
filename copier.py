@@ -33,15 +33,16 @@ print('sourceDir', sourceDir)
 print('targetDir', targetDir)
 print(files_to_copy)
 
-# По очереди открывать файлы из списка и сохранять их в другом месте
+# По очереди открывать файлы из списка и сохранять их в другом месте и в другой кодировке
 
-filename = files_to_copy[0]
-with open(sourceDir + '/' + filename, 'r', encoding="cp1251") as src_f:
-    with open(targetDir + '/' + filename, 'w', encoding="utf-8-sig") as trg_f:
-         for line in src_f:
-             print(line)
-             #trg_f.write(line.decode('cp1251').encode('utf8'))
-             trg_f.write(line)
+#filename = files_to_copy[0]
+for filename in files_to_copy:
+    with open(sourceDir + '/' + filename, 'r', encoding="cp1251") as src_f:
+        with open(targetDir + '/' + filename, 'w', encoding="utf-8-sig") as trg_f:
+            #print('------', filename) 
+            for line in src_f:
+                 #print(line)
+                 trg_f.write(line)
 
 #f = file("utf8.html", "wb")
 #for line in file("cp1251.html", "rb"):
