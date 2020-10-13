@@ -21,6 +21,13 @@ _Файл с настройками:_
 # 
 
 
+files_to_copy = []
 
+with open('copier.cop') as inf:
+    sourceDir = inf.readline()
+    targetDir = inf.readline()
+    for line in inf:
+        files_to_copy.append(line.strip())
 
+print(files_to_copy)
 
