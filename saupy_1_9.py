@@ -42,8 +42,9 @@ def info():
 def print_log(log_message, file_name = APP_NAME + '.log'):
     with open(file_name, 'a') as flog:
 	    flog.write(str(time.strftime("%Y:%m:%d %H:%M:%S")) + ' ' + '; ' + log_message + '\n')
-	print(log_message)
-	return
+    print(log_message);
+    return
+
 	
 # hp2_print_log(project_name = 'DUMMY PROJECT', comment = 'DUMMY COMMENT') Записывает в таблицу лога [dbo].[T_SERV_LOG] hyper-prod2 комментарий comment к проекту project_name
 def hp2_print_log(project_name = 'DUMMY PROJECT, comment = 'DUMMY COMMENT', printlog = False):
@@ -130,7 +131,7 @@ def get_week_last_dt(week_id2):
 	
 	
 # Возвращает датафрейм с результатом запроса query. Выполняется на боевом сервере
-sef tera_query(query, DSN = ''):
+def tera_query(query, DSN = ''):
     # Если DSN не указан, то использовать боевой сервере
 	if DSN = '':
 	    DSN = TERADATA_DSN
