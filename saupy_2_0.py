@@ -26,7 +26,7 @@ TERADATA_DSN = 'td'
 
 class conn_td():
     def __enter__(self):
-        self.conn = p.connect(method = 'ODBC', DSN = TERADATA_DSN)
+        self.conn = pd.connect(method = 'ODBC', DSN = TERADATA_DSN)
         return self.conn
     def __exit__(self, type, value, traceback):
         self.conn.close()
