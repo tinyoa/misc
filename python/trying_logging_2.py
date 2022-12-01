@@ -33,7 +33,11 @@ print(logger.handlers)
 def main(name):
     logger.debug(f'Enter in the main() function: name = {name}')
     #DEBUG:root:Enter in the main() function: name = oleg
+    logger.info('info')
+    logger.warning('warning')
+    logger.error('error')
+    logger.critical('critical')
 
 if __name__ == '__main__':
-    main('kirll')
+    main('Oleksan')
 

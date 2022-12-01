@@ -14,3 +14,9 @@ root - DEBUG - Enter in the main() function: name = petr
 root - DEBUG - Enter in the main() function: name = petr
 2022-11-02 00:46:14,055 root - DEBUG - Enter in the main() function: name = semen
 2022-11-02 00:46:36,655 root - DEBUG - Enter in the main() function: name = kirll
+2022-11-24 21:42:20,372 root - DEBUG - Enter in the main() function: name = kirll
+2022-11-24 21:46:22,632 root - DEBUG - Enter in the main() function: name = Oleksan
+2022-11-24 21:46:22,633 root - INFO - info
+2022-11-24 21:46:22,633 root - WARNING - warning
+2022-11-24 21:46:22,634 root - ERROR - error
+2022-11-24 21:46:22,634 root - CRITICAL - critical
