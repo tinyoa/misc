@@ -220,4 +220,40 @@ select
 from generate_series('2022-12-01', '2022-12-31', interval '1 day') as gs;
 
 
+CREATE OR REPLACE FUNCTION experiment.tsp_ft_days(p_start_dt date, p_end_dt date)
+returns table (date_dt date ,
+	dow integer,
+	isodow integer,
+	year integer,
+	month integer,
+	day integer,
+	doy integer,
+	week integer,
+	quarter integer,
+	julian integer
+	) as 
+$$
+declare
+    results record;
+begin
+    return query
+	    select 
+			gs::date										as dat
+			, extract(dow from gs::date)::integer 			as dow
+			, extract(isodow from gs::date)::integer 		as isodow
+			, extract(year from gs::date)::integer 			as year
+			, extract(month from gs::date)::integer 		as month
+			, extract(day from gs::date)::integer 			as day
+			, extract(doy from gs::date)::integer 			as doy
+			, extract(week from gs::date)::integer 			as week
+			, extract(quarter from gs::date)::integer 		as quarter
+			, extract(julian from gs::date)::integer 		as julian
+		from generate_series(p_start_dt, p_end_dt, interval '1 day') as gs;
+end;
+$$ language 'plpgsql';
+
+
+select * from experiment.tsp_ft_days(date'2021-01-01', current_date);
+
+
 

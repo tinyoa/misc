@@ -19,10 +19,12 @@ car_vin_number		text,
 social_network_name text,
 social_network_nick text,
 password	text,
-comment		text
+comment		text,
+source_txt	text,				-- Полный путь к файлу
+upload_ts	timestamp
 );
 
 comment on table _stg.stg_person_dirty is 'Таблица для грязного импорта данных по людям';
 
 
-dddввв
+select * from _stg.stg_person_dirty;
