@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_incoming.md",
+                "file": "03_work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab672f26d61cc983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_articles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_incoming.md",
+                "file": "03_articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_incoming.md",
+                "file": "03_articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_incoming.md"
+                "file": "03_articles.md"
               }
             }
           }
@@ -146,6 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3facc3b84d5c0d05",
-  "lastOpenFiles": []
+  "active": "ab672f26d61cc983",
+  "lastOpenFiles": [
+    "03_work.md",
+    "03_articles.md",
+    "Main.md",
+    "02_health.md",
+    "02_eyes.md",
+    "01_Planning.md",
+    "01_10_organisation.md",
+    "01_10_04_01_relative_phones.md",
+    "01_10_01_Obsidian_md.md",
+    "01_10_01_neorg.md",
+    "00_incoming.md"
+  ]
 }
