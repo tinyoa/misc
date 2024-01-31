@@ -25,7 +25,7 @@ git push origin --delete <branch>
 git branch -d <branch>
 ```
 
-Добавление всех изменений в origin
+## Добавление всех изменений в origin
 ```
 git add .
 git commit -m "<commit message>"
