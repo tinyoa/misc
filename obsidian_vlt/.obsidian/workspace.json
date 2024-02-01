@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_articles_greenplum.md",
+                "file": "03_articles_postgres.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_articles_greenplum.md",
+                "file": "03_articles_postgres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_articles_greenplum.md",
+                "file": "03_articles_postgres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_articles_greenplum.md"
+                "file": "03_articles_postgres.md"
               }
             }
           }
@@ -198,11 +198,12 @@
   },
   "active": "347cd6334cf6171b",
   "lastOpenFiles": [
-    "03_articles.md",
+    "postgres_string_function_and_operators.md",
+    "03_articles_postgres.md",
     "03_articles_greenplum.md",
+    "03_articles.md",
     "03_work.md",
     "03_notes.md",
-    "03_articles_postgres.md",
     "03_articles_git.md",
     "Main.md",
     "02_health.md",

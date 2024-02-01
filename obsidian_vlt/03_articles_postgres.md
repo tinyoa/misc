@@ -1,5 +1,5 @@
 
-
+[[postgres_string_function_and_operators]]
 
 
 
