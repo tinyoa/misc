@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_articles_postgres.md",
+                "file": "03_work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "347cd6334cf6171b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_articles_greenplum.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e5efbfd83ba0c520",
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_articles_postgres.md",
+                "file": "03_articles_greenplum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_articles_postgres.md",
+                "file": "03_articles_greenplum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_articles_postgres.md"
+                "file": "03_articles_greenplum.md"
               }
             }
           }
@@ -183,12 +196,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca9971eb5f8fbf0f",
+  "active": "347cd6334cf6171b",
   "lastOpenFiles": [
-    "03_articles_git.md",
-    "03_articles_postgres.md",
     "03_articles.md",
+    "03_articles_greenplum.md",
     "03_work.md",
+    "03_notes.md",
+    "03_articles_postgres.md",
+    "03_articles_git.md",
     "Main.md",
     "02_health.md",
     "02_eyes.md",
