@@ -64,3 +64,9 @@ git push --force
 ```
 
 
+### добавление ssh-ключей в git bash
+
+```
+$ eval $(ssh-agent -s)
+$ ssh-add c:/Users/UsernaME/key
+```
