@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "03_articles_termux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e55d90e0da575d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "03_articles_git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e5efbfd83ba0c520",
@@ -147,23 +159,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3facc3b84d5c0d05",
+  "active": "6e55d90e0da575d4",
   "lastOpenFiles": [
+    "03_articles_termux.md",
     "03_articles.md",
     "03_work.md",
+    "Main.md",
+    "03_notes.md",
+    "01_04_rifle_permit_requirements.md",
+    "03_articles_git.md",
+    "postgres. pg_dump.md",
+    "01_04_rifle_permit.md",
+    "01_Planning.md",
     "03_articles_postgres.md",
+    "postgres. psql.md",
+    "00_incoming.md",
     "postgres_string_function_and_operators.md",
     "03_articles_greenplum.md",
-    "03_notes.md",
-    "03_articles_git.md",
-    "Main.md",
     "02_health.md",
     "02_eyes.md",
-    "01_Planning.md",
     "01_10_organisation.md",
     "01_10_04_01_relative_phones.md",
     "01_10_01_Obsidian_md.md",
-    "01_10_01_neorg.md",
-    "00_incoming.md"
+    "01_10_01_neorg.md"
   ]
 }

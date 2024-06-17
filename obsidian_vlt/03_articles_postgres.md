@@ -1,7 +1,8 @@
 
 [[postgres_string_function_and_operators]]
 
-
+[[postgres. pg_dump]]
+[[postgres. psql]]
 
 #### Анонимный блок 
 ```
