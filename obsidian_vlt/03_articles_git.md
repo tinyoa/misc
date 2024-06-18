@@ -27,6 +27,10 @@ git branch <branch>
 git push -u origin <branch>
 ```
 
+#### Конфигурация github
+Чтобы добиться аутентификации из termux потребовалось использовать персональные токены  https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+
+
 ## Удаление ветки
 Удаление ветки в удаленном репозитории
 ```

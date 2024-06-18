@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_articles_git.md",
+                "file": "Main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53249708256278a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_articles_git.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_articles_git.md",
+                "file": "Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_articles_git.md"
+                "file": "Main.md"
               }
             }
           }
@@ -159,28 +171,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e55d90e0da575d4",
+  "active": "53249708256278a0",
   "lastOpenFiles": [
-    "03_articles_termux.md",
-    "03_articles.md",
-    "03_work.md",
+    "06_rest.md",
+    "07_creation.md",
     "Main.md",
-    "03_notes.md",
-    "01_04_rifle_permit_requirements.md",
-    "03_articles_git.md",
-    "postgres. pg_dump.md",
-    "01_04_rifle_permit.md",
-    "01_Planning.md",
-    "03_articles_postgres.md",
-    "postgres. psql.md",
-    "00_incoming.md",
-    "postgres_string_function_and_operators.md",
-    "03_articles_greenplum.md",
+    "finance.md",
+    "04_relatives.md",
     "02_health.md",
     "02_eyes.md",
+    "01_Planning.md",
     "01_10_organisation.md",
     "01_10_04_01_relative_phones.md",
     "01_10_01_Obsidian_md.md",
+    "00_incoming.md",
+    "01_04_rifle_permit.md",
+    "03_articles_git.md",
+    "03_articles_termux.md",
+    "03_articles.md",
+    "03_work.md",
+    "03_notes.md",
+    "01_04_rifle_permit_requirements.md",
+    "postgres. pg_dump.md",
+    "03_articles_postgres.md",
+    "postgres. psql.md",
+    "postgres_string_function_and_operators.md",
+    "03_articles_greenplum.md",
     "01_10_01_neorg.md"
   ]
 }
