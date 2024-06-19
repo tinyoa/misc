@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "07_creation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17acd6968c0baedb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fc86e1162ec8d85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_05_qlua.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "07_05_qlua.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main.md",
+                "file": "07_05_qlua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md"
+                "file": "07_05_qlua.md"
               }
             }
           }
@@ -171,12 +195,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53249708256278a0",
+  "active": "9fc86e1162ec8d85",
   "lastOpenFiles": [
-    "Neorg.md",
-    "06_rest.md",
+    "07_development.md",
+    "07_05_qlua.md",
     "07_creation.md",
     "Main.md",
+    "Neorg.md",
+    "06_rest.md",
     "finance.md",
     "04_relatives.md",
     "02_health.md",
@@ -196,8 +222,6 @@
     "postgres. pg_dump.md",
     "03_articles_postgres.md",
     "postgres. psql.md",
-    "postgres_string_function_and_operators.md",
-    "03_articles_greenplum.md",
-    "01_10_01_neorg.md"
+    "postgres_string_function_and_operators.md"
   ]
 }
