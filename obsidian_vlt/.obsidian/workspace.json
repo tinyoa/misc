@@ -49,26 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07_development.md",
+                "file": "03_articles_git.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9fc86e1162ec8d85",
+            "id": "fa208975325d9923",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07_05_qlua.md",
+                "file": "03_learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13c023dc370821bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_web_parsing_with_python_2.1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07_05_qlua.md",
+                "file": "03_articles_git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07_05_qlua.md",
+                "file": "03_articles_git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07_05_qlua.md"
+                "file": "03_articles_git.md"
               }
             }
           }
@@ -195,33 +207,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fc86e1162ec8d85",
+  "active": "17acd6968c0baedb",
   "lastOpenFiles": [
-    "07_development.md",
+    "03_learning.md",
+    "03_web_parsing_with_python.md",
+    "03_web_parsing_with_python_2.1.md",
+    "03_work.md",
+    "01_04_rifle_permit.md",
+    "01_04_rifle_permit_requirements.md",
+    "01_Planning.md",
+    "Main.md",
+    "06_rest.md",
+    "04_relatives.md",
     "07_05_qlua.md",
     "07_creation.md",
-    "Main.md",
+    "03_articles_git.md",
+    "03_article_ssh.md",
+    "07_development.md",
     "Neorg.md",
-    "06_rest.md",
     "finance.md",
-    "04_relatives.md",
     "02_health.md",
     "02_eyes.md",
-    "01_Planning.md",
     "01_10_organisation.md",
     "01_10_04_01_relative_phones.md",
     "01_10_01_Obsidian_md.md",
     "00_incoming.md",
-    "01_04_rifle_permit.md",
-    "03_articles_git.md",
     "03_articles_termux.md",
     "03_articles.md",
-    "03_work.md",
-    "03_notes.md",
-    "01_04_rifle_permit_requirements.md",
-    "postgres. pg_dump.md",
-    "03_articles_postgres.md",
-    "postgres. psql.md",
-    "postgres_string_function_and_operators.md"
+    "03_notes.md"
   ]
 }
