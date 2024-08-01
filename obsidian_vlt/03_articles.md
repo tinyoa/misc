@@ -6,3 +6,6 @@
 [[03_articles_greenplum]]
 
 [[03_articles_termux]]
+
+[[03_articles_pydroid]]
+
