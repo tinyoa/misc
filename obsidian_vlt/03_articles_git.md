@@ -100,6 +100,12 @@ git reset --hard origin/<ветка в которой произошла пор�
 ```
  Иначе, нужно закоммитить имеющиеся изменения.
 
+
+#### hostfile_replace_entries: link /c/Users/SamokvitovAYU/.ssh/known_hosts to /c/Users/SamokvitovAYU/.ssh/known_hosts.old: Permission denied
+
+Создал переменную окружения HOME = %USERPROFILE%
+
+
 ### Пробую, но пока не уверен
 
 ##### Your branch is ahead of 'origin/branch' by 2 commits

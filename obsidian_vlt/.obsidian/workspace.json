@@ -8,60 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3facc3b84d5c0d05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_articles_termux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e55d90e0da575d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53249708256278a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07_creation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "17acd6968c0baedb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_articles_git.md",
+                "file": "07_05_qlua.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fa208975325d9923",
+            "id": "fb82b09ca696082d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_learning.md",
+                "file": "07_05_qlua_sma_botVTBR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e5829218275cbf4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "1987192c2b36ff55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_learning_python.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_articles_git.md",
+                "file": "07_05_qlua_sma_botVTBR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_articles_git.md",
+                "file": "07_05_qlua_sma_botVTBR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_articles_git.md"
+                "file": "07_05_qlua_sma_botVTBR.md"
               }
             }
           }
@@ -207,9 +193,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17acd6968c0baedb",
+  "active": "fb82b09ca696082d",
   "lastOpenFiles": [
+    "07_05_qlua.md",
+    "07_05_qlua_sma_botVTBR.md",
+    "07_05_qlua_save_portfolio.md",
+    "03_articles_git.md",
     "03_learning.md",
+    "07_creation.md",
+    "03_articles_termux.md",
+    "03_learning_python.md",
     "03_web_parsing_with_python.md",
     "03_web_parsing_with_python_2.1.md",
     "03_work.md",
@@ -219,9 +212,6 @@
     "Main.md",
     "06_rest.md",
     "04_relatives.md",
-    "07_05_qlua.md",
-    "07_creation.md",
-    "03_articles_git.md",
     "03_article_ssh.md",
     "07_development.md",
     "Neorg.md",
@@ -230,10 +220,6 @@
     "02_eyes.md",
     "01_10_organisation.md",
     "01_10_04_01_relative_phones.md",
-    "01_10_01_Obsidian_md.md",
-    "00_incoming.md",
-    "03_articles_termux.md",
-    "03_articles.md",
-    "03_notes.md"
+    "01_10_01_Obsidian_md.md"
   ]
 }
