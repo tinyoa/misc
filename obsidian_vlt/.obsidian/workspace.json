@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "fb82b09ca696082d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07_05_qlua_sma_botVTBR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3e5829218275cbf4",
             "type": "leaf",
             "state": {
@@ -65,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07_05_qlua_sma_botVTBR.md",
+                "file": "07_05_qlua.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07_05_qlua_sma_botVTBR.md",
+                "file": "07_05_qlua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07_05_qlua_sma_botVTBR.md"
+                "file": "07_05_qlua.md"
               }
             }
           }
@@ -193,8 +180,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb82b09ca696082d",
+  "active": "17acd6968c0baedb",
   "lastOpenFiles": [
+    "07_05_onAllTrade_toFile.md",
     "07_05_qlua.md",
     "07_05_qlua_sma_botVTBR.md",
     "07_05_qlua_save_portfolio.md",
@@ -219,7 +207,6 @@
     "02_health.md",
     "02_eyes.md",
     "01_10_organisation.md",
-    "01_10_04_01_relative_phones.md",
-    "01_10_01_Obsidian_md.md"
+    "01_10_04_01_relative_phones.md"
   ]
 }
