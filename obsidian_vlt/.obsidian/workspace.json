@@ -20,22 +20,12 @@
             }
           },
           {
-            "id": "3e5829218275cbf4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
             "id": "1987192c2b36ff55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_learning_python.md",
+                "file": "03_articles_git.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "773ed0894b22a116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_web_parsing_HTML_elements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "github",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07_05_qlua.md",
+                "file": "03_web_parsing_HTML_elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07_05_qlua.md",
+                "file": "03_web_parsing_HTML_elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07_05_qlua.md"
+                "file": "03_web_parsing_HTML_elements.md"
               }
             }
           }
@@ -180,33 +184,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17acd6968c0baedb",
+  "active": "773ed0894b22a116",
   "lastOpenFiles": [
-    "07_05_onAllTrade_toFile.md",
+    "03_web_parsing_with_python_2.1.md",
+    "03_web_parsing_HTML_elements.md",
     "07_05_qlua.md",
+    "03_articles_git.md",
+    "03_articles.md",
+    "03_work.md",
+    "03_notes.md",
+    "Main.md",
+    "03_learning_python.md",
+    "07_05_onAllTrade_toFile.md",
     "07_05_qlua_sma_botVTBR.md",
     "07_05_qlua_save_portfolio.md",
-    "03_articles_git.md",
     "03_learning.md",
     "07_creation.md",
     "03_articles_termux.md",
-    "03_learning_python.md",
     "03_web_parsing_with_python.md",
-    "03_web_parsing_with_python_2.1.md",
-    "03_work.md",
     "01_04_rifle_permit.md",
     "01_04_rifle_permit_requirements.md",
     "01_Planning.md",
-    "Main.md",
     "06_rest.md",
     "04_relatives.md",
     "03_article_ssh.md",
     "07_development.md",
     "Neorg.md",
     "finance.md",
-    "02_health.md",
-    "02_eyes.md",
-    "01_10_organisation.md",
-    "01_10_04_01_relative_phones.md"
+    "02_health.md"
   ]
 }
